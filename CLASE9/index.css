@@ -1,0 +1,52 @@
+
+.body{
+	background-color: white;
+
+}
+h2 {
+	color: red;
+}
+.menu {		
+		display: fixed;
+		background-color: 	red;
+		width: 	300px;
+		height: 	100%;
+		padding: 	20px;
+		margin: 	10px;
+		border: 2px solid red ;
+}
+
+
+.galeria{
+	display: block;
+	align-content: space-between;
+}
+.services{
+
+}
+
+.designers{
+	display: inline-block;
+
+
+}
+
+
+.packages.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 25%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.Contact {
+	display: 100%;
+	width: 100%;
+}

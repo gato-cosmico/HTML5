@@ -1,0 +1,14 @@
+
+.socialmedia {
+	height: 300px;
+	width: 300px;
+	border-radius: 25px;
+	border: solid green;
+	padding: 25px;
+	margin: 50px;
+	align-content: 	center;	
+}
+
+p {
+	text-align: 	center;	
+}
